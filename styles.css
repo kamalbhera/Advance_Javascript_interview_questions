@@ -1,0 +1,24 @@
+/* 
+ .center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.a:hover ~ .b{
+    
+}  */
+/* div{
+    min-width: 100px;
+    min-height: 100px;
+    padding: 30px;
+    border: 1px solid black;
+
+/* } */
+
+.class div {
+  color: red;
+}
+div.class {
+  color: green;
+}
